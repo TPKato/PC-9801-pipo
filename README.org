@@ -1,0 +1,3 @@
+* NEC's PC-9801 boot sound using AVR
+
+Visit [[https://www.chinpui.org/hack/basteln/PC-9801-pipo/]] for more details.
